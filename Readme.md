@@ -1,13 +1,13 @@
 # Adv Auto Filter Bot V2
 
 <p align="center">
-  <a href="https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone">
-    <img src="https://img.shields.io/github/stars/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone?style=social">
+  <a href="https://github.com/Doc-Dx/Infinity-Auto-filter-SINHALA">
+    <img src="https://img.shields.io/github/stars/Doc-Dx/Infinity-Auto-filter-SINHALA?style=social">
 
   </a>
   
-  <a href="https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone/fork">
-    <img src="https://img.shields.io/github/forks/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone?label=Fork&style=social">
+  <a href="https://github.com/Doc-Dx/Infinity-Auto-filter-SINHALA/fork">
+    <img src="https://img.shields.io/github/forks/Doc-Dx/Infinity-Auto-filter-SINHALA?label=Fork&style=social">
 
   </a>  
 </p>
@@ -73,7 +73,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MrDoCa/Adv-Auto-filter-Ts-bot-Clone/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Doc-Dx/Infinity-Auto-filter-SINHALA/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -82,7 +82,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/Ts-Bots/Adv-Auto-filter-Ts-bot-Clone/tree/blob/main
+git clone https://github.com/Doc-Dx/Infinity-Auto-filter-SINHALA/tree/blob/main
 cd Adv-Auto-filter-Ts-bot-Clone
 pip3 install -r requirements.txt
 # Change The Vars Of bot/__init__.py File Accordingly
@@ -92,10 +92,11 @@ python3 -m bot
 </details>
 
 ## Support   
-Join My [Telegram Channel](https://www.telegram.dog/Ts_bots) For Support/Assistance And Our [Channel](https://www.telegram.dog/Anylink_Movies) For Updates.   
+Join My [Movie Channel](https://www.telegram.dog/infinityclk) For Movies/Series And Our [BOT Channel](https://www.telegram.dog/bots_infinity) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
+තරැවක් දාපියව් 😂😂
 
 ## Disclaimer
 [![GNU Affero General Public License v3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
@@ -107,3 +108,5 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram) 
  - Thanks To [@AlbertEinstein_TG](https://telegram.me/AlbertEinstein_TG) For His Source Code 
+ - Thanks To [TS Bots](https://telegram.me/ts_bots) For there editing
+ - Thanks To Dialog for Supporting me to upload these files without any errors 😂😂
