@@ -1,7 +1,7 @@
 {
     "name": "Adv-Filter-Ts-Bot-Clone",
     "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
-    "logo": "https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg",
+    "logo": "https://telegra.ph/file/4759cfdc7db115d190b93.jpg",
     "keywords": [
         "Auto",
         "Filter",
@@ -32,18 +32,18 @@
             "value": ""
         },
         "BOT_NAME": {
-            "description": "Your bot's Name. Default will be Linker",
-            "value": "Linker",
+            "description": "Your bot's Name. Default will be Infinity Filter",
+            "value": "Infinity Filter",
             "required": false
         },
         "GROUP_USERNAME": {
-            "description": "Your Group Username without '@'. Default will be Ts_bots",
-            "value": "Ts_bots", 
+            "description": "Your Group Username without '@'. Default will be Bots_infinity",
+            "value": "Bots_infinity", 
             "required": false
         },
         "ADMIN_USERNAME": {
-            "description": "Your User Bane without '@'. Default will be Ts_bots",
-            "value": "Ts_Bots", 
+            "description": "Your User Bane without '@'. Default will be Bots_infinity",
+            "value": "Bots_infinity", 
             "required": false
         }
     },
