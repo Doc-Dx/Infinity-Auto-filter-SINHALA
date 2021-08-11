@@ -143,7 +143,7 @@ async def cb_navg(bot, update: CallbackQuery):
     reply_markup = InlineKeyboardMarkup(temp_results)
 
 
-    text=f"**මෙන්න ඔයා හොයපු 👉 {query} /n/n[©️ ɪɴғɪɴɪᴛʏ ʙᴏᴛs](https://t.me/BOTS_Infinity) **" ,
+    text=f"**මෙන්න ඔයා හොයපු 👉 {query}                       [©️ ɪɴғɪɴɪᴛʏ ʙᴏᴛs](https://t.me/BOTS_Infinity)**" ,
         
     try:
         await update.message.edit(
